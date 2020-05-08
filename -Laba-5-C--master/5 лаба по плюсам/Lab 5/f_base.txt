@@ -1,0 +1,2 @@
+F:Иванов	I:Алексей 	O:Александрович Address:Суворова 	Nationality: Украинец 		Date of birth:1.05.1993 	№ manufactore: 4 	 Education: высшее 	Year: 2010
+F:Руда		I:Мария 	O:Витальевна 	Address:Корабельная 	Nationality: Украинец 		Date of birth:8.08.1995 	№ manufactore: 2	 Education: высшее 	Year: 2015
